@@ -1,0 +1,12 @@
+[package]
+name = "napi-sys"
+version = "0.1.0"
+authors = ["Sebastien Chapuis <sebastien@chapu.is>"]
+edition = "2018"
+
+# Version n-api: 0c65314e0e8602f4a7e0ace43ebd63de233eac62
+
+# [build-dependencies]
+# bindgen = "0.43"
+
+[dependencies]
